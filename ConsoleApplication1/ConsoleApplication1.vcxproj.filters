@@ -30,6 +30,9 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Crawler.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
     <ClInclude Include="src\Crawler.h">
       <Filter>头文件\src</Filter>
     </ClInclude>
@@ -42,6 +45,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="ConsoleApplication1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Crawler.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="src\Crawler.cpp">
