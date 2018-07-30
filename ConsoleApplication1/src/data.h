@@ -4,4 +4,4 @@ struct ConfigInf{
    
 int port;
   
-}
+};
