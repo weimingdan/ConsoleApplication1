@@ -13,6 +13,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="头文件\src">
+      <UniqueIdentifier>{b7409661-ee28-4098-98de-625bbae3f4f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\src">
+      <UniqueIdentifier>{55deef49-4a4b-4a9b-b1bd-96920230b4d4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -24,6 +30,12 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Crawler.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Crawler.h">
+      <Filter>头文件\src</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -31,6 +43,12 @@
     </ClCompile>
     <ClCompile Include="ConsoleApplication1.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Crawler.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Crawler.cpp">
+      <Filter>源文件\src</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
