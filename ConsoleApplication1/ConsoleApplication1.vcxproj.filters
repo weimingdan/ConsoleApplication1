@@ -36,6 +36,9 @@
     <ClInclude Include="src\Crawler.h">
       <Filter>头文件\src</Filter>
     </ClInclude>
+    <ClInclude Include="src\data.h">
+      <Filter>头文件\src</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
