@@ -6,5 +6,6 @@ public:
 	~Crawler();
 private:
 	int m_age;
+	int m_class;
 };
 
