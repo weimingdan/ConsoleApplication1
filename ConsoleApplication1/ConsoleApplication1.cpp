@@ -1,4 +1,4 @@
-// ConsoleApplication1.cpp : ¶¨Òå¿ØÖÆÌ¨Ó¦ÓÃ³ÌÐòµÄÈë¿Úµã¡£
+// ConsoleApplication1.cpp : ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì¨Ó¦ï¿½Ã³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Úµã¡£
 //
 
 #include "stdafx.h"
@@ -6,6 +6,7 @@
 
 int main()
 {
+	int a = 0;
 	long lVer = _MSC_FULL_VER;
 	printf("_MSC_FULL_VER = %d\n", _MSC_FULL_VER);
     return 0;
